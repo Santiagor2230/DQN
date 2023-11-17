@@ -12,7 +12,7 @@ pyglet == 1.5.27
 
 torch == 2.0.1
 
-# collab installations
+# Collab installations
 !apt-get install -y xvfb
 !pip install \
     gym \
@@ -22,6 +22,7 @@ torch == 2.0.1
     pyvirtualdisplay
     
 #if issues with box2d use this installation before:
+
 !apt install swig
 
 # Description

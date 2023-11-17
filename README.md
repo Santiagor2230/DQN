@@ -43,3 +43,7 @@ smooth L1 loss function
 
 https://github.com/Santiagor2230/DQN/assets/52907423/97015acb-87b4-4627-b04c-60614582f3b3
 
+
+
+https://github.com/Santiagor2230/DQN/assets/52907423/43edaeb3-0754-46f0-a4fc-86110e8e6aac
+

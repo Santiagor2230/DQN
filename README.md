@@ -3,9 +3,13 @@ Implementation of Deep Q Nework
 
 # Requirements
 gym == 0.22.0
+
 gym[box2d] == 2.3.5
+
 pytorch-lightining == 1.6.0
+
 pyglet == 1.5.27
+
 torch == 2.0.1
 
 # collab installations
@@ -26,10 +30,10 @@ Lunar Landing
 # Architecture
 DQN
 
-#optimizer
+# optimizer
 AdamW
 
-#loss function
+# loss function
 smooth L1 loss function
 
 # Video Result:

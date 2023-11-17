@@ -20,6 +20,9 @@ torch == 2.0.1
     pytorch-lightning==1.6.0 \
     pyglet==1.5.27 \
     pyvirtualdisplay
+    
+#if issues with box2d use this installation before:
+!apt install swig
 
 # Description
 DQN is a deep neural model created through the works of Q table in order to approximate predictions to a continous state space , this implementation allows us to map each state with their predicted return based on each action. Rewards are used to compared and find the loss of the DQN in order to get to the most optimal path in the game that will maximize the rewards that the agent can obtain.

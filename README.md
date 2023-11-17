@@ -28,7 +28,7 @@ DQN is a deep neural model created through the works of Q table in order to appr
 Lunar Landing
 
 # Architecture
-DQN
+Regular DQN
 
 # optimizer
 AdamW
@@ -38,4 +38,5 @@ smooth L1 loss function
 
 # Video Result:
 
+https://github.com/Santiagor2230/DQN/assets/52907423/97015acb-87b4-4627-b04c-60614582f3b3
 
